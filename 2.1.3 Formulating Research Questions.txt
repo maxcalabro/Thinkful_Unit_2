@@ -1,0 +1,31 @@
+Good or bad research questions?
+
+1. What is the 1994 rate of juvenile delinquency in the U.S.?
+Good. Assuming “juvenile delinquency” is well defined, this should yield a numeric solution that is clear and informative.
+
+2. What can we do to reduce juvenile delinquency in the U.S.?
+Bad. The question is too broad, open-ended, and isn’t translatable into a numeric solution. Better would be: Does X after school program reduce delinquency among participants?
+
+3. Does education play a role in reducing juvenile delinquents' return to crime?
+Bad. It’s a little bit better than previous, but still poorly constrained. What is “education?” Better would be: Does high school graduation reduce recidivism?
+
+4. How many customers does AT&T currently serve in Washington, DC?
+Good. The answer is a clear numeric solution, and should be calculable from AT&T datasets.
+
+5. What factors lead consumers to choose AT&T over other service providers?
+Bad. “What factors” is too broad. We may be able to gain some general intuition by investigating this question, but a precise solution would be a challenge. Better would be: What is the top factor consumers cite for choosing AT&T over other providers, and what percentage of consumers cite that reason?
+
+6. How can AT&T attract more customers?
+Bad. “How” questions are quite vague. Perhaps: How many costumers might we gain by reducing the cost of service by $5/month? It’s still predictive, but more concrete.
+
+7. Why did the Challenger Shuttle explode?
+Bad. I don’t know much about rockets, but this doesn’t seem to be a data science question, and looking into a dataset isn’t likely to tell us much of a story about this one. Better would be: Were any system controls out of normal levels during the Challenger explosion?
+
+8. Which genes are associated with increased risk of breast cancer?
+Good, if you have enough data and modeling expertise. It sounds like a hard problem, but you could show correlation values for each gene.
+
+9. Is it better to read to children at night or in the morning?
+Bad. What is “better?” It’s also really hard to test this one. You could ask something like, “Does reading to children at least 30 minutes a day increase their reading proficiency at age 6?
+
+10. How does Google’s search algorithm work?
+Bad. With enough data, you might be able to start to pick some patterns out, but this is notoriously difficult to reverse-engineer. More specific and feasible would be: “Does including Alt-Text in images increase Google Search ranking?”
