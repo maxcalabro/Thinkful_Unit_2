@@ -1,0 +1,13 @@
+cntry 	: Categorical — country name
+idno 	: Categorical — they are numbers but the numbers don’t mean anything
+year 	: Interval — they are ordered, but not a ratio
+tvtot 	: Interval — based on the value chart given in survey
+ppltrst : Interval — zero is not absolute but the distance between numbers should have meaning.
+pplfair : Interval — same as above	
+pplhlp 	: Interval — same as above
+happy 	: Interval — same as above
+sclmeet : Ordinal — intervals are not constant based on the survey given
+sclact 	: Ordinal — same as above
+gndr 	: Categorical M/F
+agea 	: Ratio — age in years
+partner : Categorical Yes/No
