@@ -1,0 +1,28 @@
+1. The amount a person will spend on a given site in the next 24 months.
+
+Regression. Presumably people spend all sorts of different amounts on a continuous scale.
+
+2. What color car someone is going to buy.
+
+Classification. There are a certain number of color options, and they don’t necessarily go in any particular order.
+
+
+3. How many children a family will have.
+
+Classification. Usually the choice is between 1, 2, and 3. No intermediate values, and no values over a certain point. 
+
+4. If someone will sign up for a service.
+
+Classification. The solution is binary, yes or no, even if it may be based on may continuous variables.
+
+5. The number of times someone will get sick in a year.
+
+Could go either way, but I would lean toward regression. The values will likely be in the same range as number of children, but a decimal answer is more meaningful in this situation, as it is clearly a predictive average. Why be bound to “2” or “3” if the prediction is 2.5?
+
+6. The probability someone will get sick in the next month.
+
+Classification. Again, binary yes/no question. 
+
+7. Which medicine will work best for a given patient.
+
+Classification. There are a set number of appropriate medicines for a given condition, and they are not on any kind of continuous spectrum.
